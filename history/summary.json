@@ -22,10 +22,10 @@
     "url": "https://nav.onmid.net",
     "icon": "https://icons.duckduckgo.com/ip3/nav.onmid.net.ico",
     "slug": "my-nav",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1267,
@@ -33,16 +33,18 @@
     "timeWeek": 1275,
     "timeMonth": 1267,
     "timeYear": 1267,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-17": 1
+    }
   },
   {
     "name": "my web3 nav",
     "url": "https://wnav.onmid.net",
     "icon": "https://icons.duckduckgo.com/ip3/wnav.onmid.net.ico",
     "slug": "my-web3-nav",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 903,
     "timeMonth": 886,
     "timeYear": 886,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-17": 0
+    }
   },
   {
     "name": "onmid.montaigne.io",
