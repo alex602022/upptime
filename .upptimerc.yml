@@ -9,6 +9,10 @@ sites:
     url: https://nav.onmid.net
   - name: my web3 nav
     url: https://wnav.onmid.net
+  - name: chat
+    url: https://chat.onmid.net
+  - name: wiki
+    url: http://43.142.236.225:890/
   - name: onmid.montaigne.io
     url: https://onmid.montaigne.io/
 
