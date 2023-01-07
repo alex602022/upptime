@@ -4,19 +4,19 @@
     "url": "https://onmid.net",
     "icon": "https://icons.duckduckgo.com/ip3/onmid.net.ico",
     "slug": "onmid",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 513,
-    "timeDay": 479,
-    "timeWeek": 431,
-    "timeMonth": 545,
+    "timeDay": 489,
+    "timeWeek": 439,
+    "timeMonth": 544,
     "timeYear": 513,
     "dailyMinutesDown": {
-      "2023-01-07": 0
+      "2023-01-07": 8
     }
   },
   {
