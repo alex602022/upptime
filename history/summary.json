@@ -4,9 +4,9 @@
     "url": "https://onmid.net",
     "icon": "https://icons.duckduckgo.com/ip3/onmid.net.ico",
     "slug": "onmid",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 431,
     "timeMonth": 545,
     "timeYear": 513,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-07": 0
+    }
   },
   {
     "name": "my nav",
@@ -77,11 +79,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/43.142.236.225.ico",
     "slug": "wiki",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 7085,
     "timeDay": 5811,
     "timeWeek": 7901,
